@@ -1,0 +1,3 @@
+[submodule "teste-modulo-ui"]
+	path = teste-modulo-ui
+	url = https://github.com/nelsonjunior/teste-modulo-ui.git
